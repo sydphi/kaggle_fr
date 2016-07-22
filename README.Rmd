@@ -1,0 +1,9 @@
+---
+title: "README"
+author: "S. Phillips"
+date: "July 22, 2016"
+output: html_document
+---
+
+Following Kaggle Facial recognition tutorial from 
+https://www.kaggle.com/c/facial-keypoints-detection
